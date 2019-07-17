@@ -4,6 +4,8 @@ subtitle: I'm Haki and these are things I try to do to make my life better
 layout: layouts/base.njk
 ---
 
+
+
 ## Hygiene
 
 ### Acne Control
@@ -20,6 +22,7 @@ layout: layouts/base.njk
 - Shave your groin, armpits, beard when they get long enough that the hairs start to trap oil. This way when you sweat these areas won't smell, when you apply deodorant it won't coagulate and get crusty, and your skin will feel better. Some guys will disagree with this but this is how my dad raised me.
 
 ## Lifestyle
+
 
 ## Computer Science
 

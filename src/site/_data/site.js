@@ -1,4 +1,4 @@
 module.exports = {
-  "rootUrl" : "https://site-root-url.com",
+  "rootUrl" : "https://optimizelife.netlify.com",
   "buildTime" : new Date()
 }
